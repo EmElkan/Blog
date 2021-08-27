@@ -142,6 +142,7 @@ layout: post
 <input type="checkbox"> Icons.     
 <input type="checkbox"> Multiple browsers.     
 <input type="checkbox"> Screen formats and sizes.     
+<input type="checkbox"> Resize window.    
 <input type="checkbox"> Zoom.     
 <input type="checkbox"> Scroll bars.     
 <input type="checkbox"> Privacy policy.    
