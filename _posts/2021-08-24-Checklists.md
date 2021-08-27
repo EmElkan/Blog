@@ -36,7 +36,6 @@ layout: post
 <input type="checkbox"> Video captions.    
 <input type="checkbox"> Audio transcripts.
 
-
 &nbsp;
 
 ## API
@@ -104,9 +103,7 @@ layout: post
 <input type="checkbox"> Icons.    
 <input type="checkbox"> Legal requirements.    
 
-
 &nbsp;
-
 
 ## Tools
 
@@ -118,7 +115,6 @@ layout: post
 <input type="checkbox"> Retire.js.     
 <input type="checkbox"> NVDA.     
 <input type="checkbox"> Logs.     
-
 
 &nbsp;
 
@@ -184,8 +180,6 @@ layout: post
 <input type="checkbox"> Required fields.     
 <input type="checkbox"> Disabled fields.     
 <input type="checkbox"> Placeholder text.      
-<input type="checkbox"> Date format.     
-<input type="checkbox"> Time format.     
 
 ### Navigation
 
@@ -210,6 +204,23 @@ layout: post
 <input type="checkbox"> Alignment.   
 <input type="checkbox"> Loading.    
 
+### Date and time
+
+<input type="checkbox"> Date format.    
+<input type="checkbox"> Valid values.    
+<input type="checkbox"> Invalid values.    
+<input type="checkbox"> Negative values.   
+<input type="checkbox"> Special characters.     
+<input type="checkbox"> Correct amount of days.        
+<input type="checkbox"> Leap year.    
+<input type="checkbox"> Selected date matches displayed date.    
+<input type="checkbox"> Time zones.  
+<input type="checkbox"> Time format.     
+<input type="checkbox"> Daylight savings.   
+
+
+
+&nbsp;
 
 
 &nbsp;
@@ -228,6 +239,7 @@ layout: post
 [Manual Testing Checklist - screenster](https://screenster.io/manual-testing-checklist/)     
 [Web Application Testing Checklist - Guru99](https://www.guru99.com/complete-web-application-testing-checklist.html)    
 [Would Heu-Risk it?](https://leanpub.com/wouldheuriskit)     
+[Date Fields - zyxware](https://www.zyxware.com/articles/3069/websoftware-testing-checklists-date-fields-what-are-the-test-cases-to-be-considered)      
 
 
 
